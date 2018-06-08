@@ -1,0 +1,28 @@
+{
+  "name": "ghost-imgur",
+  "version": "0.1.0",
+  "description": "imgur storage for ghost blog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wrenth04/ghost-imgur.git"
+  },
+  "keywords": [
+    "Ghost",
+    "imgur",
+    "ghost-imgur"
+  ],
+  "author": "Phil Huang <wrenth04@gmail.com> (https://blog-wrenth04.rhcloud.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wrenth04/ghost-imgur"
+  },
+  "homepage": "https://github.com/wrenth04/ghost-imgur",
+  "dependencies": {
+    "bluebird": "^3.3.1",
+    "imgur": "^0.1.7"
+  }
+}
