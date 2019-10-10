@@ -16,7 +16,7 @@
     "mysql": "^2.14.1"
   },
   "engines": {
-    "node": "6.11.x"
+    "node": "10.x"
   },
   "scripts": {
     "start": "node server.js"
