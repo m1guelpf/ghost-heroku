@@ -1,6 +1,6 @@
 {
   "name": "ghost-imgur",
-  "version": "0.1.0",
+  "version": "0.0.5",
   "description": "imgur storage for ghost blog.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/wrenth04/ghost-imgur",
   "dependencies": {
     "bluebird": "^3.3.1",
-    "imgur": "^0.1.7"
+    "imgur": "^0.1.7",
+    "ghost-storage-base": "^0.0.1"
   }
 }
