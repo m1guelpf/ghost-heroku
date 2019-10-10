@@ -10,9 +10,9 @@
   "private": true,
   "version": "1.7.1",
   "dependencies": {
-    "casper": "https://github.com/TryGhost/Casper#2.3.1",
-    "ghost": "^1.24.1",
-    "ghost-imgur": "^0.1.0",
+    "casper": "git+https://github.com/TryGhost/Casper.git#2.3.1",
+    "ghost": "^2.34.0",
+    "ghost-imgur": "0.0.5",
     "mysql": "^2.14.1"
   },
   "engines": {
