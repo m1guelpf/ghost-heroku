@@ -5,3 +5,4 @@ content/data/*.db
 content/logs/
 config.production.json
 content/data/ghost-local.db
+.idea
