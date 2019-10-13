@@ -2,7 +2,7 @@
 
 Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
-## Ghost version 1.X
+## Ghost version 2.X
 
 The latest release of Ghost is now supported! Changes include:
 
